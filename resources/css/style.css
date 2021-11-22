@@ -24,3 +24,12 @@ p{
     font-size: 21px;
     color: gray;
 }
+
+video, image {
+    align-items: center;
+}
+
+#footer{
+    text-align: right;
+    font-size: medium;
+}
